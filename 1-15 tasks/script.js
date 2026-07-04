@@ -1,7 +1,7 @@
 let choice = Number(prompt(
 `Choose a Task
 
-1. Student Management System
+1. Student Management Systems
 2. Employee Salary System
 3. Shopping Cart
 4. Bank Account
